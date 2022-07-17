@@ -1,0 +1,39 @@
+
+.trend{
+    padding: 20px;
+    position: relative;
+}
+img{
+    
+    width: 400px;
+    height: auto;
+}
+.trend-info{
+    position: absolute;
+    background-color: rgb(245, 237, 237);
+    bottom: 60px;
+    left: 20px;
+    font-size: 20px;
+    width: 130px;
+    height: 30px;
+}
+span{
+    font-size: 18px;
+    padding: 20px;
+    color: rgb(173, 169, 169);
+}
+h2{
+    
+    inline-size: 400px;
+    padding: 20px;
+    color: rgb(41, 39, 39);
+    
+}
+h4{
+    position: absolute;
+   bottom: 50px;
+    inline-size: 380px;
+    padding: 20px;
+    color: rgb(45, 44, 44);
+  
+}
